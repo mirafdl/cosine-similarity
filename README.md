@@ -1,2 +1,2 @@
 # cosine-similarity
-calc <file1> <file2>
+calc file1 file2
